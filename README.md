@@ -1,4 +1,4 @@
-Hi 👋 My name is Ivan Sizov 
+Greetings! My name is Ivan Sizov 
 ===========================  
 Golang Backend Developer 
 ------------------------
