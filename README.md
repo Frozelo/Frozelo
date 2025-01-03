@@ -1,4 +1,4 @@
-Hi 👋 My name is Ivan Sizov ===========================  Golang Backend Developer ------------------------  * 🌍  I'm based in Krasnoyarsk * 🧠  I'm learning Golang Backend Stack
+Golang Backend Developer ------------------------  * 🌍  I'm based in Krasnoyarsk * 🧠  I'm learning Golang Backend Stack
 
 ### Skills  
 
