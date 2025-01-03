@@ -18,4 +18,3 @@ Golang Backend Developer
 
 <a href="http://www.github.com/Frozelo"><img src="https://github-readme-stats.vercel.app/api?username=Frozelo&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&show_icons=true" alt="Frozelo's GitHub stats" /></a>
 <a href="http://www.github.com/Frozelo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Frozelo&stroke=ffffff&background=22272e&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<a href="https://github.com/Frozelo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frozelo&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
